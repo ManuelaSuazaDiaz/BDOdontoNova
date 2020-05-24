@@ -1,0 +1,35 @@
+main {
+    background-color: #27496d;
+    padding: 10px;}
+    
+  
+main > h1 {
+    text-align: center;
+    font-family: monospace;
+    color: white;}
+    
+main > div >div >a button {
+    background-color: #142850;
+    border-color: #142850;
+}   
+
+
+.caja { 
+  font-family: monospace;
+  color: #142850;
+  font-size: 18px; 
+  font-weight: 400; 
+  text-align: center; 
+  background: #ffffff; 
+  margin: 0 0 25px; 
+  overflow: hidden; 
+  padding: 20px; 
+  border-radius: 35px 0px 35px 0px; 
+  -moz-border-radius: 35px 0px 35px 0px; 
+  -webkit-border-radius: 35px 0px 35px 0px; 
+  border: 2px solid#142850;
+
+}
+
+
+ 

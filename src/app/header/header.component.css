@@ -1,0 +1,11 @@
+header {
+    background-color: #142850;
+    color: white;
+    padding: 20px;}
+
+header > img {
+    display:block;
+    margin:auto; }
+
+
+  

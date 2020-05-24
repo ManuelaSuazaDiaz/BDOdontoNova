@@ -1,0 +1,30 @@
+main {
+    background-color: #27496d;
+    padding: 10px;}
+  
+main > h1 {
+text-align: center;
+font-family: monospace;
+color: white;}
+ 
+body button {
+    display: inline-block;
+    background-color: #142850;
+    color: white;
+    padding: 8px 30px;
+    font-size: 15px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    border-radius: 10%;
+    border: none;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    }   
+main > div >div >a button {
+    background-color: #142850;
+    border-color: #142850;
+    }   
+body{
+    margin-top: 100px;
+}
